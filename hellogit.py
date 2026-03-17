@@ -1,1 +1,5 @@
 print ("primera linea de codigo sola")
+print ("FUTBOL")
+print ("BASKET")
+print ("NATACION")
+print ("TENIS")
